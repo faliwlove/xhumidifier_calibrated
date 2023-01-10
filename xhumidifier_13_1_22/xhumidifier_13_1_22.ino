@@ -3,7 +3,7 @@
 #include <avr/wdt.h>
 
 #define SEGMENT_DATA PORTC
-
+cz
 #define LED_LEVEL3 0
 #define LED_LEVEL2 3
 #define LED_LEVEL1 12
