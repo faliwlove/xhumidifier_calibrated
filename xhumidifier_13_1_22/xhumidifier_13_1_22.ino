@@ -1,6 +1,6 @@
-//#include <ArduinoJson.h>
-//#include "src/SimpleTimer/SimpleTimer.h"
-//#include <avr/wdt.h>
+#include <ArduinoJson.h>
+#include "src/SimpleTimer/SimpleTimer.h"
+#include <avr/wdt.h>
 
 #define SEGMENT_DATA PORTC
 
